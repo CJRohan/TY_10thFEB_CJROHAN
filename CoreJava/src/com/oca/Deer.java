@@ -2,7 +2,7 @@ package com.oca;
 
 public class Deer {
 	public Deer() {
-		System.out.print("Deer");
+		System.out.print("Deergre");
 	}
 
 	public Deer(int age) {
